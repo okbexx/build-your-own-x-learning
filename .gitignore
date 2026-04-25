@@ -1,0 +1,10 @@
+# macOS / Linux
+.DS_Store
+Thumbs.db
+
+# Codex / agent scratch artifacts
+.codex-*.txt
+
+# Temporary files
+*.tmp
+*.temp
