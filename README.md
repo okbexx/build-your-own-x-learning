@@ -1,0 +1,115 @@
+# build-your-own-x-learning
+
+这是一个围绕 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 展开的每日学习仓库。
+
+目标不是简单收藏链接，而是按天沉淀一套可连续推进的学习产物：
+
+- 每天一个主题
+- 每个主题一个独立目录
+- 每天至少包含：
+  - `README.md`：中文原理理解版学习笔记
+  - `learning-card.png`：中文深色科技风学习卡
+- 用 `progress.md` 跟踪整体进度
+
+## 仓库结构
+
+```text
+build-your-own-x-learning/
+├── progress.md
+├── day-01-command-line-tool/
+│   ├── README.md
+│   └── learning-card.png
+├── day-02-shell/
+│   ├── README.md
+│   └── learning-card.png
+├── day-03-text-editor/
+│   ├── README.md
+│   └── learning-card.png
+├── day-04-git/
+│   ├── README.md
+│   └── learning-card.png
+└── day-05-database/
+    ├── README.md
+    └── learning-card.png
+```
+
+## 每日产物规范
+
+### 1. README.md
+每个 Day 的 `README.md` 采用中文“原理理解卡”结构，固定包含：
+
+- 这是什么
+- 怎么使用
+- 核心原理
+- 适用场景
+- 不适用边界
+- 为什么重要
+- 建议延伸
+
+目标是：**看完就能快速建立对该主题的整体理解，而不是只停留在术语层面。**
+
+### 2. learning-card.png
+每个 Day 配套一张图片卡片，用来快速浏览该主题的重点。
+
+要求：
+
+- 中文
+- 深色科技风
+- 高信息密度
+- 偏“原理理解卡”，不是社媒封面
+- 必须是当日主题专属图片，不能复用前一天图片
+
+## 进度管理
+
+根目录的 `progress.md` 用来记录 30 天学习计划的推进状态。
+
+状态说明：
+
+- `planned`：未开始
+- `done`：已完成
+- `skipped`：跳过
+
+当前已经完成：
+
+- Day 01 · Command-Line Tool
+- Day 02 · Shell
+- Day 03 · Text Editor
+- Day 04 · Git
+- Day 05 · Database
+
+## 自动化约定
+
+当前学习流转遵循这些规则：
+
+- 每日主题产物统一落在本仓库中
+- 计划按 Day 目录推进
+- 定时任务执行时要求**显式调用 Codex CLI**
+- 只有在 `README.md` 与 `learning-card.png` 都生成并校验通过后，才更新 `progress.md`
+- 不把每日学习过程自动写入 `all_in_one`
+- 只有在用户自己形成总结并明确要求时，才再同步进知识库
+
+## 更新方式
+
+后续新增一天内容时，通常会做这些事：
+
+1. 在 `progress.md` 中找到下一个 `planned` 的主题
+2. 创建对应目录，例如 `day-06-search-engine/`
+3. 生成：
+   - `README.md`
+   - `learning-card.png`
+4. 校验文件存在、非空，且图片不是前一天复用图
+5. 更新 `progress.md`
+6. 提交并推送到 GitHub
+
+## 仓库定位
+
+这个仓库更像是一个**过程型学习仓库**，不是最终知识库本体。
+
+它适合承载：
+
+- 每日学习推进
+- 原理理解卡片
+- 阶段性学习痕迹
+- 面向长期积累的主题目录结构
+
+而更稳定、经过用户总结确认后的内容，才会视情况进入知识库体系。
