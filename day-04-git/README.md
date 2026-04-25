@@ -1,7 +1,7 @@
 ---
 day: 4
 topic: Git
-status: pending
+status: done
 source_repo: https://github.com/codecrafters-io/build-your-own-x
 image_path: ~/build-your-own-x-learning/day-04-git/learning-card.png
 ---

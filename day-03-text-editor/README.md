@@ -1,7 +1,7 @@
 ---
 day: 3
 topic: Text Editor
-status: pending
+status: done
 source_repo: https://github.com/codecrafters-io/build-your-own-x
 image_path: ~/build-your-own-x-learning/day-03-text-editor/learning-card.png
 ---
