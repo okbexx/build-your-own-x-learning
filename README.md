@@ -81,6 +81,7 @@ build-your-own-x-learning/
 - 不适用边界
 - 为什么重要
 - 建议延伸
+- 对应的 build-your-own-x 原始项目地址
 
 目标是：**看完就能快速建立对该主题的整体理解，而不是只停留在术语层面。**
 
@@ -119,15 +120,17 @@ build-your-own-x-learning/
 
 1. 打开 `progress.md`，找到第一个 `planned` 的主题
 2. 创建对应目录，例如 `day-06-search-engine/`
-3. 生成该 Day 的：
+3. 先从 `build-your-own-x` 仓库中找到该主题对应的原始项目地址，并把链接写入当天的 `README.md`
+4. 生成该 Day 的：
    - `README.md`
    - `learning-card.png`
-4. 校验：
+5. 校验：
    - `README.md` 存在且非空
+   - `README.md` 中包含对应的 build-your-own-x 原始项目地址
    - `learning-card.png` 存在且非空
    - 与前一天图片哈希不同，确保不是复用图
-5. 更新 `progress.md`
-6. 提交并推送到 GitHub
+6. 更新 `progress.md`
+7. 提交并推送到 GitHub
 
 ## 自动化约定
 
@@ -136,6 +139,7 @@ build-your-own-x-learning/
 - 每日主题产物统一落在本仓库中
 - 计划按 Day 目录推进
 - 定时任务执行时要求**显式调用 Codex CLI**
+- 每天的学习内容必须贴出对应的 build-your-own-x 原始项目地址
 - 只有在 `README.md` 与 `learning-card.png` 都生成并校验通过后，才更新 `progress.md`
 - 不把每日学习过程自动写入 `all_in_one`
 - 只有在用户自己形成总结并明确要求时，才再同步进知识库
