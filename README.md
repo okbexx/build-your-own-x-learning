@@ -11,10 +11,46 @@
   - `learning-card.png`：中文深色科技风学习卡
 - 用 `progress.md` 跟踪整体进度
 
+## 进度总览
+
+| Day | Topic | Status | Directory |
+|---|---|---|---|
+| 01 | Command-Line Tool | done | `day-01-command-line-tool/` |
+| 02 | Shell | done | `day-02-shell/` |
+| 03 | Text Editor | done | `day-03-text-editor/` |
+| 04 | Git | done | `day-04-git/` |
+| 05 | Database | done | `day-05-database/` |
+| 06 | Search Engine | planned | `day-06-search-engine/` |
+| 07 | Web Server | planned | `day-07-web-server/` |
+| 08 | Web Browser | planned | `day-08-web-browser/` |
+| 09 | Network Stack | planned | `day-09-network-stack/` |
+| 10 | BitTorrent Client | planned | `day-10-bittorrent-client/` |
+| 11 | Docker | planned | `day-11-docker/` |
+| 12 | Blockchain / Distributed Ledger | planned | `day-12-blockchain/` |
+| 13 | Neural Network | planned | `day-13-neural-network/` |
+| 14 | AI Model | planned | `day-14-ai-model/` |
+| 15 | Operating System | planned | `day-15-operating-system/` |
+| 16 | Programming Language | planned | `day-16-programming-language/` |
+| 17 | Regex Engine | planned | `day-17-regex-engine/` |
+| 18 | Emulator / Virtual Machine | planned | `day-18-emulator-vm/` |
+| 19 | 3D Renderer | planned | `day-19-3d-renderer/` |
+| 20 | Game | planned | `day-20-game/` |
+| 21 | Bot | planned | `day-21-bot/` |
+| 22 | Frontend Framework / Library | planned | `day-22-frontend-framework/` |
+| 23 | Physics Engine | planned | `day-23-physics-engine/` |
+| 24 | Authentication / Login | planned | `day-24-authentication/` |
+| 25 | Template Engine | planned | `day-25-template-engine/` |
+| 26 | Build System | planned | `day-26-build-system/` |
+| 27 | Messaging Queue | planned | `day-27-messaging-queue/` |
+| 28 | Reactive System | planned | `day-28-reactive-system/` |
+| 29 | Search / Recommendation Extension | planned | `day-29-search-recommendation/` |
+| 30 | 自选综合主题 | planned | `day-30-capstone/` |
+
 ## 仓库结构
 
 ```text
 build-your-own-x-learning/
+├── README.md
 ├── progress.md
 ├── day-01-command-line-tool/
 │   ├── README.md
@@ -77,6 +113,22 @@ build-your-own-x-learning/
 - Day 04 · Git
 - Day 05 · Database
 
+## 如何继续生成下一天
+
+如果要继续推进下一天内容，建议按下面流程执行：
+
+1. 打开 `progress.md`，找到第一个 `planned` 的主题
+2. 创建对应目录，例如 `day-06-search-engine/`
+3. 生成该 Day 的：
+   - `README.md`
+   - `learning-card.png`
+4. 校验：
+   - `README.md` 存在且非空
+   - `learning-card.png` 存在且非空
+   - 与前一天图片哈希不同，确保不是复用图
+5. 更新 `progress.md`
+6. 提交并推送到 GitHub
+
 ## 自动化约定
 
 当前学习流转遵循这些规则：
@@ -87,19 +139,6 @@ build-your-own-x-learning/
 - 只有在 `README.md` 与 `learning-card.png` 都生成并校验通过后，才更新 `progress.md`
 - 不把每日学习过程自动写入 `all_in_one`
 - 只有在用户自己形成总结并明确要求时，才再同步进知识库
-
-## 更新方式
-
-后续新增一天内容时，通常会做这些事：
-
-1. 在 `progress.md` 中找到下一个 `planned` 的主题
-2. 创建对应目录，例如 `day-06-search-engine/`
-3. 生成：
-   - `README.md`
-   - `learning-card.png`
-4. 校验文件存在、非空，且图片不是前一天复用图
-5. 更新 `progress.md`
-6. 提交并推送到 GitHub
 
 ## 仓库定位
 
