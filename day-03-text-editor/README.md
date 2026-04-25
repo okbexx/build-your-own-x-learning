@@ -8,6 +8,10 @@ image_path: ~/build-your-own-x-learning/day-03-text-editor/learning-card.png
 
 # Day 3 · Text Editor
 
+## build-your-own-x 对应原始项目地址
+
+- [Text Editor](https://github.com/codecrafters-io/build-your-own-x#build-your-own-text-editor)
+
 ## 这是什么
 
 Text Editor（文本编辑器）是最基础、也最容易被低估的软件系统之一。它表面上只是“输入、删除、保存文字”，本质上却是在做一件很难的事：**把人类连续、模糊、频繁的编辑意图，稳定映射成对文本缓冲区的精确操作**。

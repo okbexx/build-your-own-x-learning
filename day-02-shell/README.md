@@ -8,6 +8,10 @@ image_path: ~/build-your-own-x-learning/day-02-shell/learning-card.png
 
 # Day 2 · Shell
 
+## build-your-own-x 对应原始项目地址
+
+- [Shell](https://github.com/codecrafters-io/build-your-own-x#build-your-own-shell)
+
 ## 这是什么
 
 Shell 不是单纯的“黑窗口”，而是用户与操作系统交互的一层命令解释器。它负责接收你输入的命令，把它们解析后交给系统执行，并把结果再反馈回来。

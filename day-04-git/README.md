@@ -8,6 +8,10 @@ image_path: ~/build-your-own-x-learning/day-04-git/learning-card.png
 
 # Day 4 · Git
 
+## build-your-own-x 对应原始项目地址
+
+- [Git](https://github.com/codecrafters-io/build-your-own-x#build-your-own-git)
+
 ## 这是什么
 
 Git 是一个分布式版本控制系统，但如果只把它理解成“保存代码历史”，通常会越学越乱。更准确的说法是：**Git 是一个用内容寻址对象、引用指针和提交图来记录项目演化过程的快照系统**。

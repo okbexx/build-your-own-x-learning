@@ -8,6 +8,10 @@ image_path: ~/build-your-own-x-learning/day-01-command-line-tool/learning-card.p
 
 # Day 1 · Command-Line Tool
 
+## build-your-own-x 对应原始项目地址
+
+- [Command-Line Tool](https://github.com/codecrafters-io/build-your-own-x#build-your-own-command-line-tool)
+
 ## 这是什么
 
 命令行工具是通过终端输入命令与参数来完成任务的软件接口。它不依赖图形界面，而是把功能暴露成可组合、可脚本化、可自动化的文本接口。
