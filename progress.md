@@ -9,7 +9,7 @@
 | 03 | Text Editor | done | `~/build-your-own-x-learning/day-03-text-editor/` | 已完成 Day 3 中文学习卡与专属直出图 |
 | 04 | Git | done | `~/build-your-own-x-learning/day-04-git/` | 通过 Codex CLI 显式生成 |
 | 05 | Database | done | `~/build-your-own-x-learning/day-05-database/` | 通过 Codex CLI 显式生成，README 与专属图片已复核 |
-| 06 | Search Engine | planned | `~/build-your-own-x-learning/day-06-search-engine/` | 预留 |
+| 06 | Search Engine | done | `~/build-your-own-x-learning/day-06-search-engine/` | 通过 Codex CLI 显式生成，README 与专属图片已复核 |
 | 07 | Web Server | planned | `~/build-your-own-x-learning/day-07-web-server/` | 预留 |
 | 08 | Web Browser | planned | `~/build-your-own-x-learning/day-08-web-browser/` | 预留 |
 | 09 | Network Stack | planned | `~/build-your-own-x-learning/day-09-network-stack/` | 预留 |
