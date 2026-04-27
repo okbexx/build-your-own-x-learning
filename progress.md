@@ -10,9 +10,9 @@
 | 04 | Git | done | `~/build-your-own-x-learning/day-04-git/` | 通过 Codex CLI 显式生成 |
 | 05 | Database | done | `~/build-your-own-x-learning/day-05-database/` | 通过 Codex CLI 显式生成，README 与专属图片已复核 |
 | 06 | Search Engine | done | `~/build-your-own-x-learning/day-06-search-engine/` | 通过 Codex CLI 显式生成，README 与专属图片已复核 |
-| 07 | Web Server | planned | `~/build-your-own-x-learning/day-07-web-server/` | 预留 |
-| 08 | Web Browser | planned | `~/build-your-own-x-learning/day-08-web-browser/` | 预留 |
-| 09 | Network Stack | planned | `~/build-your-own-x-learning/day-09-network-stack/` | 预留 |
+| 07 | Web Server | done | `~/build-your-own-x-learning/day-07-web-server/` | 已完成 Day 7 文本版与专属图片，README 与学习卡已复核 |
+| 08 | Web Browser | done | `~/build-your-own-x-learning/day-08-web-browser/` | 已完成 Day 8 文本版与专属图片，README 与学习卡已复核 |
+| 09 | Network Stack | done | `~/build-your-own-x-learning/day-09-network-stack/` | 通过 Codex CLI 新生成，README 与专属图片已复核 |
 | 10 | BitTorrent Client | planned | `~/build-your-own-x-learning/day-10-bittorrent-client/` | 预留 |
 | 11 | Docker | planned | `~/build-your-own-x-learning/day-11-docker/` | 预留 |
 | 12 | Blockchain / Distributed Ledger | planned | `~/build-your-own-x-learning/day-12-blockchain/` | 预留 |
