@@ -13,7 +13,7 @@
 | 07 | Web Server | done | `~/build-your-own-x-learning/day-07-web-server/` | 已完成 Day 7 文本版与专属图片，README 与学习卡已复核 |
 | 08 | Web Browser | done | `~/build-your-own-x-learning/day-08-web-browser/` | 已完成 Day 8 文本版与专属图片，README 与学习卡已复核 |
 | 09 | Network Stack | done | `~/build-your-own-x-learning/day-09-network-stack/` | 通过 Codex CLI 新生成，README 与专属图片已复核 |
-| 10 | BitTorrent Client | planned | `~/build-your-own-x-learning/day-10-bittorrent-client/` | 预留 |
+| 10 | BitTorrent Client | done | `~/build-your-own-x-learning/day-10-bittorrent-client/` | 通过 Codex CLI 新生成，README 与专属图片已复核 |
 | 11 | Docker | planned | `~/build-your-own-x-learning/day-11-docker/` | 预留 |
 | 12 | Blockchain / Distributed Ledger | planned | `~/build-your-own-x-learning/day-12-blockchain/` | 预留 |
 | 13 | Neural Network | planned | `~/build-your-own-x-learning/day-13-neural-network/` | 预留 |
