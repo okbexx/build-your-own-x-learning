@@ -20,12 +20,12 @@
 | 03 | Text Editor | done | `day-03-text-editor/` |
 | 04 | Git | done | `day-04-git/` |
 | 05 | Database | done | `day-05-database/` |
-| 06 | Search Engine | planned | `day-06-search-engine/` |
-| 07 | Web Server | planned | `day-07-web-server/` |
-| 08 | Web Browser | planned | `day-08-web-browser/` |
-| 09 | Network Stack | planned | `day-09-network-stack/` |
-| 10 | BitTorrent Client | planned | `day-10-bittorrent-client/` |
-| 11 | Docker | planned | `day-11-docker/` |
+| 06 | Search Engine | done | `day-06-search-engine/` |
+| 07 | Web Server | done | `day-07-web-server/` |
+| 08 | Web Browser | done | `day-08-web-browser/` |
+| 09 | Network Stack | done | `day-09-network-stack/` |
+| 10 | BitTorrent Client | done | `day-10-bittorrent-client/` |
+| 11 | Docker | done | `day-11-docker/` |
 | 12 | Blockchain / Distributed Ledger | planned | `day-12-blockchain/` |
 | 13 | Neural Network | planned | `day-13-neural-network/` |
 | 14 | AI Model | planned | `day-14-ai-model/` |
