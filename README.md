@@ -26,7 +26,7 @@
 | 09 | Network Stack | done | `day-09-network-stack/` |
 | 10 | BitTorrent Client | done | `day-10-bittorrent-client/` |
 | 11 | Docker | done | `day-11-docker/` |
-| 12 | Blockchain / Distributed Ledger | planned | `day-12-blockchain/` |
+| 12 | Blockchain / Distributed Ledger | done | `day-12-blockchain/` |
 | 13 | Neural Network | planned | `day-13-neural-network/` |
 | 14 | AI Model | planned | `day-14-ai-model/` |
 | 15 | Operating System | planned | `day-15-operating-system/` |

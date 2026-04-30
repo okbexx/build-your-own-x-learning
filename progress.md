@@ -15,7 +15,7 @@
 | 09 | Network Stack | done | `~/build-your-own-x-learning/day-09-network-stack/` | 通过 Codex CLI 新生成，README 与专属图片已复核 |
 | 10 | BitTorrent Client | done | `~/build-your-own-x-learning/day-10-bittorrent-client/` | 通过 Codex CLI 新生成，README 与专属图片已复核 |
 | 11 | Docker | done | `~/build-your-own-x-learning/day-11-docker/` | 已完成 Day 11 文本版与专属图片 |
-| 12 | Blockchain / Distributed Ledger | planned | `~/build-your-own-x-learning/day-12-blockchain/` | 预留 |
+| 12 | Blockchain / Distributed Ledger | done | `~/build-your-own-x-learning/day-12-blockchain/` | 通过 Codex CLI 显式生成，README 与专属图片已复核 |
 | 13 | Neural Network | planned | `~/build-your-own-x-learning/day-13-neural-network/` | 预留 |
 | 14 | AI Model | planned | `~/build-your-own-x-learning/day-14-ai-model/` | 预留 |
 | 15 | Operating System | planned | `~/build-your-own-x-learning/day-15-operating-system/` | 预留 |
