@@ -27,7 +27,7 @@
 | 10 | BitTorrent Client | done | `day-10-bittorrent-client/` |
 | 11 | Docker | done | `day-11-docker/` |
 | 12 | Blockchain / Distributed Ledger | done | `day-12-blockchain/` |
-| 13 | Neural Network | planned | `day-13-neural-network/` |
+| 13 | Neural Network | done | `day-13-neural-network/` |
 | 14 | AI Model | planned | `day-14-ai-model/` |
 | 15 | Operating System | planned | `day-15-operating-system/` |
 | 16 | Programming Language | planned | `day-16-programming-language/` |
@@ -113,6 +113,14 @@ build-your-own-x-learning/
 - Day 03 · Text Editor
 - Day 04 · Git
 - Day 05 · Database
+- Day 06 · Search Engine
+- Day 07 · Web Server
+- Day 08 · Web Browser
+- Day 09 · Network Stack
+- Day 10 · BitTorrent Client
+- Day 11 · Docker
+- Day 12 · Blockchain / Distributed Ledger
+- Day 13 · Neural Network
 
 ## 如何继续生成下一天
 
