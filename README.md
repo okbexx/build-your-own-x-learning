@@ -29,7 +29,7 @@
 | 12 | Blockchain / Distributed Ledger | done | `day-12-blockchain/` |
 | 13 | Neural Network | done | `day-13-neural-network/` |
 | 14 | AI Model | done | `day-14-ai-model/` |
-| 15 | Operating System | planned | `day-15-operating-system/` |
+| 15 | Operating System | done | `day-15-operating-system/` |
 | 16 | Programming Language | planned | `day-16-programming-language/` |
 | 17 | Regex Engine | planned | `day-17-regex-engine/` |
 | 18 | Emulator / Virtual Machine | planned | `day-18-emulator-vm/` |
@@ -122,6 +122,7 @@ build-your-own-x-learning/
 - Day 12 · Blockchain / Distributed Ledger
 - Day 13 · Neural Network
 - Day 14 · AI Model
+- Day 15 · Operating System
 
 ## 如何继续生成下一天
 
