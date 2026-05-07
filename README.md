@@ -30,7 +30,7 @@
 | 13 | Neural Network | done | `day-13-neural-network/` |
 | 14 | AI Model | done | `day-14-ai-model/` |
 | 15 | Operating System | done | `day-15-operating-system/` |
-| 16 | Programming Language | planned | `day-16-programming-language/` |
+| 16 | Programming Language | done | `day-16-programming-language/` |
 | 17 | Regex Engine | planned | `day-17-regex-engine/` |
 | 18 | Emulator / Virtual Machine | planned | `day-18-emulator-vm/` |
 | 19 | 3D Renderer | planned | `day-19-3d-renderer/` |
@@ -123,6 +123,7 @@ build-your-own-x-learning/
 - Day 13 · Neural Network
 - Day 14 · AI Model
 - Day 15 · Operating System
+- Day 16 · Programming Language
 
 ## 如何继续生成下一天
 
