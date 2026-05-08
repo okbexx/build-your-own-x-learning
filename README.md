@@ -31,7 +31,7 @@
 | 14 | AI Model | done | `day-14-ai-model/` |
 | 15 | Operating System | done | `day-15-operating-system/` |
 | 16 | Programming Language | done | `day-16-programming-language/` |
-| 17 | Regex Engine | planned | `day-17-regex-engine/` |
+| 17 | Regex Engine | done | `day-17-regex-engine/` |
 | 18 | Emulator / Virtual Machine | planned | `day-18-emulator-vm/` |
 | 19 | 3D Renderer | planned | `day-19-3d-renderer/` |
 | 20 | Game | planned | `day-20-game/` |
