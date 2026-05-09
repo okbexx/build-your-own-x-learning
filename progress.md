@@ -21,7 +21,7 @@
 | 15 | Operating System | done | `~/build-your-own-x-learning/day-15-operating-system/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 16 | Programming Language | done | `~/build-your-own-x-learning/day-16-programming-language/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 17 | Regex Engine | done | `~/build-your-own-x-learning/day-17-regex-engine/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
-| 18 | Emulator / Virtual Machine | planned | `~/build-your-own-x-learning/day-18-emulator-vm/` | 预留 |
+| 18 | Emulator / Virtual Machine | done | `~/build-your-own-x-learning/day-18-emulator-vm/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 19 | 3D Renderer | planned | `~/build-your-own-x-learning/day-19-3d-renderer/` | 预留 |
 | 20 | Game | planned | `~/build-your-own-x-learning/day-20-game/` | 预留 |
 | 21 | Bot | planned | `~/build-your-own-x-learning/day-21-bot/` | 预留 |
