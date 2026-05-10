@@ -33,7 +33,7 @@
 | 16 | Programming Language | done | `day-16-programming-language/` |
 | 17 | Regex Engine | done | `day-17-regex-engine/` |
 | 18 | Emulator / Virtual Machine | done | `day-18-emulator-vm/` |
-| 19 | 3D Renderer | planned | `day-19-3d-renderer/` |
+| 19 | 3D Renderer | done | `day-19-3d-renderer/` |
 | 20 | Game | planned | `day-20-game/` |
 | 21 | Bot | planned | `day-21-bot/` |
 | 22 | Frontend Framework / Library | planned | `day-22-frontend-framework/` |
