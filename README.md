@@ -34,7 +34,7 @@
 | 17 | Regex Engine | done | `day-17-regex-engine/` |
 | 18 | Emulator / Virtual Machine | done | `day-18-emulator-vm/` |
 | 19 | 3D Renderer | done | `day-19-3d-renderer/` |
-| 20 | Game | planned | `day-20-game/` |
+| 20 | Game | done | `day-20-game/` |
 | 21 | Bot | planned | `day-21-bot/` |
 | 22 | Frontend Framework / Library | planned | `day-22-frontend-framework/` |
 | 23 | Physics Engine | planned | `day-23-physics-engine/` |
@@ -124,6 +124,10 @@ build-your-own-x-learning/
 - Day 14 · AI Model
 - Day 15 · Operating System
 - Day 16 · Programming Language
+- Day 17 · Regex Engine
+- Day 18 · Emulator / Virtual Machine
+- Day 19 · 3D Renderer
+- Day 20 · Game
 
 ## 如何继续生成下一天
 
