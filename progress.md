@@ -26,7 +26,7 @@
 | 20 | Game | done | `~/build-your-own-x-learning/day-20-game/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 21 | Bot | done | `~/build-your-own-x-learning/day-21-bot/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 22 | Frontend Framework / Library | done | `~/build-your-own-x-learning/day-22-frontend-framework/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
-| 23 | Physics Engine | planned | `~/build-your-own-x-learning/day-23-physics-engine/` | 预留 |
+| 23 | Physics Engine | done | `~/build-your-own-x-learning/day-23-physics-engine/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 24 | Authentication / Login | planned | `~/build-your-own-x-learning/day-24-authentication/` | 预留 |
 | 25 | Template Engine | planned | `~/build-your-own-x-learning/day-25-template-engine/` | 预留 |
 | 26 | Build System | planned | `~/build-your-own-x-learning/day-26-build-system/` | 预留 |

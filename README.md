@@ -37,7 +37,7 @@
 | 20 | Game | done | `day-20-game/` |
 | 21 | Bot | done | `day-21-bot/` |
 | 22 | Frontend Framework / Library | done | `day-22-frontend-framework/` |
-| 23 | Physics Engine | planned | `day-23-physics-engine/` |
+| 23 | Physics Engine | done | `day-23-physics-engine/` |
 | 24 | Authentication / Login | planned | `day-24-authentication/` |
 | 25 | Template Engine | planned | `day-25-template-engine/` |
 | 26 | Build System | planned | `day-26-build-system/` |
