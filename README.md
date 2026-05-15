@@ -38,7 +38,7 @@
 | 21 | Bot | done | `day-21-bot/` |
 | 22 | Frontend Framework / Library | done | `day-22-frontend-framework/` |
 | 23 | Physics Engine | done | `day-23-physics-engine/` |
-| 24 | Authentication / Login | planned | `day-24-authentication/` |
+| 24 | Authentication / Login | done | `day-24-authentication/` |
 | 25 | Template Engine | planned | `day-25-template-engine/` |
 | 26 | Build System | planned | `day-26-build-system/` |
 | 27 | Messaging Queue | planned | `day-27-messaging-queue/` |
@@ -129,6 +129,9 @@ build-your-own-x-learning/
 - Day 19 · 3D Renderer
 - Day 20 · Game
 - Day 21 · Bot
+- Day 22 · Frontend Framework / Library
+- Day 23 · Physics Engine
+- Day 24 · Authentication / Login
 
 ## 如何继续生成下一天
 
