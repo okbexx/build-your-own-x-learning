@@ -39,7 +39,7 @@
 | 22 | Frontend Framework / Library | done | `day-22-frontend-framework/` |
 | 23 | Physics Engine | done | `day-23-physics-engine/` |
 | 24 | Authentication / Login | done | `day-24-authentication/` |
-| 25 | Template Engine | planned | `day-25-template-engine/` |
+| 25 | Template Engine | done | `day-25-template-engine/` |
 | 26 | Build System | planned | `day-26-build-system/` |
 | 27 | Messaging Queue | planned | `day-27-messaging-queue/` |
 | 28 | Reactive System | planned | `day-28-reactive-system/` |
@@ -132,6 +132,7 @@ build-your-own-x-learning/
 - Day 22 · Frontend Framework / Library
 - Day 23 · Physics Engine
 - Day 24 · Authentication / Login
+- Day 25 · Template Engine
 
 ## 如何继续生成下一天
 
