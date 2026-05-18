@@ -29,7 +29,7 @@
 | 23 | Physics Engine | done | `~/build-your-own-x-learning/day-23-physics-engine/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 24 | Authentication / Login | done | `~/build-your-own-x-learning/day-24-authentication/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 25 | Template Engine | done | `~/build-your-own-x-learning/day-25-template-engine/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
-| 26 | Build System | planned | `~/build-your-own-x-learning/day-26-build-system/` | 预留 |
+| 26 | Build System | done | `~/build-your-own-x-learning/day-26-build-system/` | 通过 Codex CLI 显式生成 README，并通过专用脚本生成专属图片，README 与 PNG 已复核 |
 | 27 | Messaging Queue | planned | `~/build-your-own-x-learning/day-27-messaging-queue/` | 预留 |
 | 28 | Reactive System | planned | `~/build-your-own-x-learning/day-28-reactive-system/` | 预留 |
 | 29 | Search / Recommendation Extension | planned | `~/build-your-own-x-learning/day-29-search-recommendation/` | 预留 |
