@@ -41,7 +41,7 @@
 | 24 | Authentication / Login | done | `day-24-authentication/` |
 | 25 | Template Engine | done | `day-25-template-engine/` |
 | 26 | Build System | done | `day-26-build-system/` |
-| 27 | Messaging Queue | planned | `day-27-messaging-queue/` |
+| 27 | Messaging Queue | done | `day-27-messaging-queue/` |
 | 28 | Reactive System | planned | `day-28-reactive-system/` |
 | 29 | Search / Recommendation Extension | planned | `day-29-search-recommendation/` |
 | 30 | 自选综合主题 | planned | `day-30-capstone/` |
@@ -133,6 +133,8 @@ build-your-own-x-learning/
 - Day 23 · Physics Engine
 - Day 24 · Authentication / Login
 - Day 25 · Template Engine
+- Day 26 · Build System
+- Day 27 · Messaging Queue
 
 ## 如何继续生成下一天
 
