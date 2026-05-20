@@ -42,7 +42,7 @@
 | 25 | Template Engine | done | `day-25-template-engine/` |
 | 26 | Build System | done | `day-26-build-system/` |
 | 27 | Messaging Queue | done | `day-27-messaging-queue/` |
-| 28 | Reactive System | planned | `day-28-reactive-system/` |
+| 28 | Reactive System | done | `day-28-reactive-system/` |
 | 29 | Search / Recommendation Extension | planned | `day-29-search-recommendation/` |
 | 30 | 自选综合主题 | planned | `day-30-capstone/` |
 
